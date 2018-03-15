@@ -1,4 +1,5 @@
 
 hello git!
 
-add something 
+add something
+add by vi for merging test! 
