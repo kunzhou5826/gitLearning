@@ -1,0 +1,9 @@
+
+hello git!
+
+add something
+
+add by vi editor!
+add by vi for merging test! 
+
+hi again!
