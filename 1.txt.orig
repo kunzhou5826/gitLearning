@@ -7,6 +7,11 @@ add by vi editor!
 add by vi for merging test! 
 
 hi again!
+<<<<<<< HEAD
+
+Changed in br "newbranch"
+=======
+changed in real "newbranch"
 
 test rebase
-Changed in br "newbranch"
+>>>>>>> newbranch
