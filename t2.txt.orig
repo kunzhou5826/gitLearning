@@ -1,3 +1,6 @@
 hello this file 2
+<<<<<<< HEAD
 changes in master
+=======
 changes in newbranch
+>>>>>>> newbranch
