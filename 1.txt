@@ -8,3 +8,5 @@ add by vi for merging test!
 
 hi again!
 changed in real "newbranch"
+
+test rebase
