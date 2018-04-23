@@ -7,3 +7,5 @@ add by vi editor!
 add by vi for merging test! 
 
 hi again!
+
+Changed in br "newbranch"
